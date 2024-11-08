@@ -1,3 +1,6 @@
-let x = 5
-let y = 10
-console.log(x*y)
+var a=12;
+if (a>10) {
+    a=30
+    console.log(a);
+}
+console.log(a);
